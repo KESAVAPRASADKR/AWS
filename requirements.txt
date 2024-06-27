@@ -1,4 +1,5 @@
 transformers 
+torch
 mysql-connector-python
 numpy 
 scipy
