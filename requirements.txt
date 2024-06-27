@@ -1,0 +1,5 @@
+transformers 
+mysql-connector-python
+numpy 
+scipy
+datetime
